@@ -1,3 +1,2 @@
 # phish
-Phish-related stuff
-By [James Wexler](https://twitter.com/bengiswex)
+Phish-related stuff by [James Wexler](https://twitter.com/bengiswex)
